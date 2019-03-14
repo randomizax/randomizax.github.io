@@ -1,0 +1,33 @@
+[submodule "autodraw-show-area"]
+	path = autodraw-show-area
+	url = https://github.com/randomizax/autodraw-show-area.git
+[submodule "export-portals-list"]
+	path = export-portals-list
+	url = https://github.com/randomizax/export-portals-list.git
+[submodule "farm-status"]
+	path = farm-status
+	url = https://github.com/randomizax/farm-status.git
+[submodule "gsi-height-map"]
+	path = gsi-height-map
+	url = https://github.com/randomizax/gsi-height-map.git
+[submodule "hack-details"]
+	path = hack-details
+	url = https://github.com/randomizax/hack-details.git
+[submodule "mod-slots"]
+	path = mod-slots
+	url = https://github.com/randomizax/mod-slots.git
+[submodule "multilayer-planner"]
+	path = multilayer-planner
+	url = https://github.com/randomizax/multilayer-planner.git
+[submodule "polygon-label"]
+	path = polygon-label
+	url = https://github.com/randomizax/polygon-label.git
+[submodule "reload-portal-details"]
+	path = reload-portal-details
+	url = https://github.com/randomizax/reload-portal-details.git
+[submodule "reso-rechargable-energy"]
+	path = reso-rechargable-energy
+	url = https://github.com/randomizax/reso-rechargable-energy.git
+[submodule "yet-to-full"]
+	path = yet-to-full
+	url = https://github.com/randomizax/yet-to-full.git
