@@ -31,3 +31,6 @@
 [submodule "yet-to-full"]
 	path = yet-to-full
 	url = https://github.com/randomizax/yet-to-full.git
+[submodule "hangouts-style"]
+	path = hangouts-style
+	url = https://github.com/Trueloveplanet/hangouts-style.git
