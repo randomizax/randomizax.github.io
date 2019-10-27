@@ -33,4 +33,4 @@
 	url = https://github.com/randomizax/yet-to-full.git
 [submodule "hangouts-style"]
 	path = hangouts-style
-	url = https://github.com/Trueloveplanet/hangouts-style.git
+	url = https://github.com/randomizax/hangouts-style.git
