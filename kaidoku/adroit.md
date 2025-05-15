@@ -11,6 +11,8 @@ https://plus.google.com/+JoJoStratton/posts/RErnhVhz1a3
 
 RGB各1ビットの3ビットカラーはこんな感じです。各色ビットの並び順は普段HTMLとかで使うR→G→Bの順とは逆で、上の桁からB→G→Rの順になります。
 
+|数|和名|英名|
+|:---:|:---:|---:|
 |0|黒|black|
 |1|赤|red|
 |2|緑|green|
@@ -36,7 +38,7 @@ RGB各1ビットの3ビットカラーはこんな感じです。各色ビット
 
 あっこれ、今週何度も見た8進数ですね。
 
-http://tools.decodeingress.me/#/basic のOctalのところにペーストすると、Textのところに正解が出ます。
+`http://tools.decodeingress.me/#/basic` のOctalのところにペーストすると、Textのところに正解が出ます。
 
 `5qfs4fearc6d9m`
 
