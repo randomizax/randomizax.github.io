@@ -1,6 +1,12 @@
 # Randomizax's Place
 
-Hi.  Here're my plugins.
+# Decoding Ingress Passcodes
+
+パスコード解読に関する読み物です。過去にG+で限定公開していたものになります
+
+- [解読解説](./kaidoku/)
+
+# IITC Plugins
 
 Recommended:
 
