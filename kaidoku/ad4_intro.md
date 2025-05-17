@@ -41,9 +41,9 @@ AD4を解いて得られた答は、パスコードとしても機能し、
 
 ([その2に続く](./ad4_2b.md) )
 
-<a href="/kaidoku/images/1a1gi0j7x3n0i.png"><img width="100px" src="/kaidoku/images/1a1gi0j7x3n0i.png"/><br/>Accees Dive全景(ちょっと縮小済)</a>
+<a href="/kaidoku/images/1a1gi0j7x3n0i.png"><img width="200px" src="/kaidoku/images/1a1gi0j7x3n0i.png"/><br/>Accees Dive全景(ちょっと縮小済)</a>
 
-<a href="/kaidoku/images/1a1gi164knweq.png"><img width="100px" src="/kaidoku/images/1a1gi164knweq.png"/><br/>まん中の二重丸をクリックするとこれが出る。右下の「Show puzzleをクリック」</a>
+<a href="/kaidoku/images/1a1gi164knweq.png"><img width="200px" src="/kaidoku/images/1a1gi164knweq.png"/><br/>まん中の二重丸をクリックするとこれが出る。右下の「Show puzzleをクリック」</a>
 
 ----
 

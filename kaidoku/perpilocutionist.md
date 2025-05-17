@@ -95,7 +95,7 @@ http://ja.wikipedia.org/wiki/%E4%BA%8C%E9%80%B2%E5%8C%96%E5%8D%81%E9%80%B2%E8%A1
 
 P.S. そうそう、解法に使わなかった入力線がもう1本、ENABLEというのがありました。これは入力値を出力値に反映させるかどうかの制御線だろうと思います。7447にはENがないので、何か他のICがモデルなのかもしれないですね(4511?)
 
-<a href="/kaidoku/images/1ag82jlp0t99u.png"><img width="100px" src="/kaidoku/images/1ag82jlp0t99u.png"/><br/>信号が埋め込まれている</a>
+<a href="/kaidoku/images/1ag82jlp0t99u.png"><img width="200px" src="/kaidoku/images/1ag82jlp0t99u.png"/><br/>信号が埋め込まれている</a>
 
 ----
 
