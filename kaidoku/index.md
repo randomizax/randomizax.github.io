@@ -10,7 +10,7 @@
 - [2014/09/22 AD4 gigantic](./ad4_gigantic.md)
 - [2014/09/29 AD4 dolls](./ad4_dolls.md)
 - [2014/10/05 AD4 causality](./ad4_causality.md)
-- [2014/11/02 AD4 causality](./ad4_human.md)
+- [2014/11/02 AD4 human](./ad4_human.md)
 - [2015/02/10 PERPILOCUTIONIST](./perpilocutionist.md)
 - 2015/02/11
 - 2015/02/12
