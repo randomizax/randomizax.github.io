@@ -1,13 +1,3 @@
-<head>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Mono&display=swap" rel="stylesheet">
-  <style>
-    code, pre {
-      font-family: 'Noto Sans Mono', monospace;
-    }
-  </style>
-</head>
-
-
 # 2014/09/22 Access Dive 4解読 その6
 
 Access Dive 4の問題を解いています。
