@@ -45,11 +45,11 @@ AD4のノードマップ上、Causalityからは2つエッジが出ています�
 
 [次回も、まだ解けていない「Human knowledge」です](./ad4_human.md)。あと1歩なので、みなさんのお知恵をお貸しください。
 
-<a href="/kaidoku/images/1a3axclf9j0ky.png"><img width="200px" src="/kaidoku/images/1a3axclf9j0ky.png/>パターンだけを取り出したところ</a>
+<a href="/kaidoku/images/1a3axclf9j0ky.png"><img width="200px" src="/kaidoku/images/1a3axclf9j0ky.png/">パターンだけを取り出したところ</a>
 
-<a href="/kaidoku/images/1a3axcxn4j4j6.png"><img width="200px" src="/kaidoku/images/1a3axcxn4j4j6.png/>画像内にパターンが見えている様子</a>
+<a href="/kaidoku/images/1a3axcxn4j4j6.png"><img width="200px" src="/kaidoku/images/1a3axcxn4j4j6.png/">画像内にパターンが見えている様子</a>
 
-<a href="/kaidoku/images/1a3axd6qep8aq.png"><img width="200px" src="/kaidoku/images/1a3axd6qep8aq.png/>実行結果</a>
+<a href="/kaidoku/images/1a3axd6qep8aq.png"><img width="200px" src="/kaidoku/images/1a3axd6qep8aq.png/">実行結果</a>
 
 ----
 
