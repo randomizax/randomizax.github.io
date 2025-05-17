@@ -1,8 +1,8 @@
-# 2015/09/17
+# 2015/09/17 DORYPHORE
 
 9/15のJojoさんのWOTD、一番乗りできたので解説します。
 
-https://jojoingresswotd.github.io/2015/35/DORYPHORE.html
+[https://jojoingresswotd.github.io/2015/35/DORYPHORE.html](https://jojoingresswotd.github.io/2015/35/DORYPHORE.html)
 
 出題はこんな感じ
 

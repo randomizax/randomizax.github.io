@@ -1,8 +1,8 @@
-# 2016/02/20
+# 2016/02/20 ADROIT
 
 最近なかなかJojoさんの解読に取り組めていませんでしたが、ひさびさに2/18分ADROITの出題で一番乗り取れました!
 
-https://jojoingresswotd.github.io/2016/06/ADROIT.html
+[https://jojoingresswotd.github.io/2016/06/ADROIT.html](https://jojoingresswotd.github.io/2016/06/ADROIT.html)
 
 では解説。問題文はこうでした
 `MMRRWBIIRCCBYIRGCRRIRMIRCIRICBYCRCIRRCRMCB`

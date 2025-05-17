@@ -1,4 +1,4 @@
-# 2015/02/10
+# 2015/02/10 PERPILOCUTIONIST
 
 パスコードパズルの出題元はいくつかあります。その中でも「Jojo's Word of the Day」(略してWotD)は毎日出題されています。一番に解いた人は名前が紹介されるという早解きレースもあるのですが、私は一番になれたことはありません。
 
@@ -6,7 +6,7 @@ WotDは連続した日に関連する解き方の問題が続くことが多く�
 
 ★Part 1: 2014/11/19 PERPILOCUTIONIST
 
-https://jojoingresswotd.github.io/2014/44/PERPILOCUTIONIST.html
+[https://jojoingresswotd.github.io/2014/44/PERPILOCUTIONIST.html](https://jojoingresswotd.github.io/2014/44/PERPILOCUTIONIST.html)
 
 Jojo's WotDでは、通常、パスコードの元となるパズルは、マウスホバーによって表示されるか、またはWotDページのHTMLソースコード中にテキストとして埋め込まれています。しかしこの回はソースコードには問題がなく、ノートパッド風の背景画像に書き込まれていました。
 
@@ -95,7 +95,7 @@ http://ja.wikipedia.org/wiki/%E4%BA%8C%E9%80%B2%E5%8C%96%E5%8D%81%E9%80%B2%E8%A1
 
 P.S. そうそう、解法に使わなかった入力線がもう1本、ENABLEというのがありました。これは入力値を出力値に反映させるかどうかの制御線だろうと思います。7447にはENがないので、何か他のICがモデルなのかもしれないですね(4511?)
 
-![信号が埋め込まれている](./images/1ag82jlp0t99u.png)
+<a href="/kaidoku/images/1ag82jlp0t99u.png"><img width="100px" src="/kaidoku/images/1ag82jlp0t99u.png"/><br/>信号が埋め込まれている</a>
 
 ----
 
