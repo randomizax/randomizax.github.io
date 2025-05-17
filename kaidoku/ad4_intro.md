@@ -7,7 +7,7 @@
 
 このパスコード、Report Ingressなどの映像や
 Niantic Investigation Boardなどに隠されている暗号を解くと得られます。
-- [https://www.nianticproject.com/](https://www.nianticproject.com/)
+- [http://www.nianticproject.com/](http://www.nianticproject.com/)
 
 パスコード解読の手引きはこのあたりを参照してください。(英語です)
 - `http://decodeingress.me/`

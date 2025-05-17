@@ -40,7 +40,7 @@ You have discovered Helios Watchlist Portal 7/15.
 
 その下には□とか・を並べたような暗号っぽいものが表示されています(添付画像)。これはPigpen Cipherという換字暗号で、ぐぐると見つかる表([https://en.wikipedia.org/wiki/Pigpen_cipher](https://en.wikipedia.org/wiki/Pigpen_cipher) )をそのまま使って読むことができます。
 
-<a href="/kaidoku/images/1a2m0nx3gysia.png"><img width="200px" src="/kaidoku/images/1a2m0nx3gysia.png/">Pigpen Cipher</a>
+<a href="/kaidoku/images/1a2m0nx3gysia.png"><img width="200px" src="/kaidoku/images/1a2m0nx3gysia.png"/>Pigpen Cipher</a>
 
 `lampitheatre darles JN23HQ52QT45`
 
