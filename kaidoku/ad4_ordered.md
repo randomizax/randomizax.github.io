@@ -31,7 +31,7 @@ DAH-NES-TSA-CLA-GI-AIH-6-
 `A-KEH-DI-GLINI-TKIN` でぐぐると
 
 - Navajo Code Talkers' Dictionary
-- [http://www.history.navy.mil/faqs/faq61-4.htm](http://www.history.navy.mil/faqs/faq61-4.htm)
+- [https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/n/navajo-code-talker-dictionary.html](https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/n/navajo-code-talker-dictionary.html)
 
 というサイトがヒットします。なんとnavy.milのサイトですね!
 1945年6月改訂、って、米海軍で実際に使われていた暗号なのでしょうか。

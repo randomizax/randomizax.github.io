@@ -7,7 +7,7 @@
 
 このパスコード、Report Ingressなどの映像や
 Niantic Investigation Boardなどに隠されている暗号を解くと得られます。
-- [http://www.nianticproject.com/](http://www.nianticproject.com/)
+- [https://www.nianticproject.com/](https://www.nianticproject.com/)
 
 パスコード解読の手引きはこのあたりを参照してください。(英語です)
 - `http://decodeingress.me/`
@@ -24,7 +24,7 @@ AD4を解いて得られた答は、パスコードとしても機能し、
 アーティファクトはすべて出現したらしいので、もういいよね?
 
 - Access Dive Console
-- [http://veruminveniri.com/ad4/console](http://veruminveniri.com/ad4/console)
+- [https://veruminveniri.com/ad4/console](https://veruminveniri.com/ad4/console)
 
 このURLを開くと添付したスクリーンショットの図が出現します。
 どうやら最初はまん中の2重丸だけがあったようです。

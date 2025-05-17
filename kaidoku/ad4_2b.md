@@ -4,7 +4,7 @@ Access Dive 4 (#AD4) の問題を解いていきます。
 Access Diveとは何か、解いてどんなうれしいことがあるのかは「[その1](./ad4_intro.md)」をご覧ください。
 
 Access Dive Console
-- [http://veruminveniri.com/ad4/console](http://veruminveniri.com/ad4/console)
+- [https://veruminveniri.com/ad4/console](https://veruminveniri.com/ad4/console)
 
 このURLのまん中の二重丸のノードをクリックすると「`2b | ...`」というダイアログが出ます。
 「Show puzzle」をクリックすると画像が表示されます。

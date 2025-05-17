@@ -140,7 +140,7 @@ wはwait、uはup(脱出)です。こんな風に読んでください。
 3x3に並んだ正方形で複数回何かするというと…
 
 携帯電話のキーですね。参考画像
--  [http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Telephone_number_pad_2.jpeg/1280px-Telephone_number_pad_2.jpeg](http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Telephone_number_pad_2.jpeg/1280px-Telephone_number_pad_2.jpeg)
+-  [https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Telephone_number_pad_2.jpeg/1280px-Telephone_number_pad_2.jpeg](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Telephone_number_pad_2.jpeg/1280px-Telephone_number_pad_2.jpeg)
 
 パソコンのテンキーと電話のテンキーは並びが違うので注意が必要です。
 そういえば入口のあった部屋には「TWO」、

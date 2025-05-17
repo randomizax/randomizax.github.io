@@ -6,14 +6,14 @@ Access Dive 4の問題を解いています。
 さて、Causalityですが、まだ解けていません。
 
 今回のお題も画像です。「'Stadt Lancre' by Cyrodan」とタイトルが出ますね。この情報でぐぐると元画像は以-下のものであるとわかります。
-- [http://commons.wikimedia.org/wiki/File:Stadt_Lancre.JPG](http://commons.wikimedia.org/wiki/File:Stadt_Lancre.JPG)
+- [https://commons.wikimedia.org/wiki/File:Stadt_Lancre.JPG](https://commons.wikimedia.org/wiki/File:Stadt_Lancre.JPG)
 
 左上にVIのロゴと、右上に「DO NOT MEDDLE WITH THE NATURE OF CAUSALITY」とうめ込まれているのがわかります。これらのキーワードからぐぐると、「Discworld」という小説に登場するものであることがわかりました。Stadt Lancreとは「ランカー市」のドイツ語ですが、ドイツ語であることに意味はないようです。画像がドイツ語版Wikipediaのディスクワールドの項目からリンクされているのでドイツ語表記なのでしょう。
 
 ロゴとセリフ以外にも変な模様がうめ込まれているのがわかります。これはライフゲーム(Conway's Game of Life)というもののパターンの一部です。Access Diveでは過去にもライフゲームのパターンが出題されたことがあるそうです。
 
 ライフゲームは学術的にはセルラオートマトンという分野に属し、決まったパターンで図形が変化していく、生命のシミュレーションモデルのようなものです。ライフゲーム自体は非常に面白く奥の深いものです。自分も80年代末ごろにグライダー列をつないで計算するパターンを作ってネットに投稿したりしていました。以下のニコ動のシリーズが非常によくできているので一度見てみてください。Youtubeにも転載されたものがあるようです。
-- [http://www.nicovideo.jp/mylist/34610498](http://www.nicovideo.jp/mylist/34610498)
+- [https://www.nicovideo.jp/mylist/34610498](https://www.nicovideo.jp/mylist/34610498)
 
 この動画でライフゲームに興味を持った人には、この本がすごくおすすめです。
 
@@ -23,7 +23,7 @@ Access Dive 4の問題を解いています。
 ちなみに原題は「The Recursive Universe」、Ingressのストーリーにぴったりの書名ですね! 自己再生できる機械が偶然生まれることがあるだろうか? という問いがテーマになっています。
 
 さて、お題のPNGを画像エディタで開くと、アルファチャンネル(透明ピクセル)にパターンが入っています。これをライフゲームのプログラムに読ませて実行すると、添付画像のように文字が出てきました。ライフゲームを実行するにはGollyというプログラムを使うとよいです。
-- [http://golly.sourceforge.net/](http://golly.sourceforge.net/)
+- [https://golly.sourceforge.net/](https://golly.sourceforge.net/)
 
 ちなみに、この横に流れるサインを生成するパターンは「Golly Ticker」と呼ばれています。
 
@@ -56,10 +56,10 @@ AD4のノードマップ上、Causalityからは2つエッジが出ています�
 コメント 2014/10/06
 
 Discworldの司書はオランウータンで、その鳴き声は「Ook」です。「Ook!」というbrainfuck派生プログラミング言語があって「オランウータン用」だそうです。
-- [http://ja.wikipedia.org/wiki/Ook!](http://ja.wikipedia.org/wiki/Ook!)
+- [https://ja.wikipedia.org/wiki/Ook!](https://ja.wikipedia.org/wiki/Ook!)
 
 Ook化・復元ページがありました
-- [http://www.splitbrain.org/services/ook](http://www.splitbrain.org/services/ook)
+- [https://www.splitbrain.org/services/ook](https://www.splitbrain.org/services/ook)
 
 実行結果
 `nemesis8hg88ly9`

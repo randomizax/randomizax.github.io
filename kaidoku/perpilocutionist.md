@@ -85,13 +85,13 @@ A, Bふたつの4ビット2進数はICに入るとa～gという7本の信号線
 ★参考Wikipedia
 
 [^1]: 7セグメントディスプレイ
-http://ja.wikipedia.org/wiki/7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4
+[https://ja.wikipedia.org/wiki/7セグメントディスプレイ](https://ja.wikipedia.org/wiki/7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4)
 
 [^2]: 7400 series
-http://en.wikipedia.org/wiki/7400_series
+[https://en.wikipedia.org/wiki/7400_series](https://en.wikipedia.org/wiki/7400_series)
 
 [^3]: 二進化十進表現
-http://ja.wikipedia.org/wiki/%E4%BA%8C%E9%80%B2%E5%8C%96%E5%8D%81%E9%80%B2%E8%A1%A8%E7%8F%BE
+[https://ja.wikipedia.org/wiki/二進化十進表現](https://ja.wikipedia.org/wiki/%E4%BA%8C%E9%80%B2%E5%8C%96%E5%8D%81%E9%80%B2%E8%A1%A8%E7%8F%BE)
 
 P.S. そうそう、解法に使わなかった入力線がもう1本、ENABLEというのがありました。これは入力値を出力値に反映させるかどうかの制御線だろうと思います。7447にはENがないので、何か他のICがモデルなのかもしれないですね(4511?)
 
