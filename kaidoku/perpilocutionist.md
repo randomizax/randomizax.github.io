@@ -82,8 +82,6 @@ A, Bふたつの4ビット2進数はICに入るとa～gという7本の信号線
 
 回路図シリーズ解説、次回は11/21の出題、SITZKRIEG を解説します。
 
-★参考Wikipedia
-
 [^1]: [https://ja.wikipedia.org/wiki/7セグメントディスプレイ](https://ja.wikipedia.org/wiki/7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4)
 
 [^2]: [https://en.wikipedia.org/wiki/7400_series](https://en.wikipedia.org/wiki/7400_series)
