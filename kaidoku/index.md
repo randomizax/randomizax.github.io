@@ -15,6 +15,6 @@
 - [2015/02/11 SITZKRIEG](./sitzkrieg.md) (回路図シリーズ2)
 - [2015/02/12 GNOMIC](./gnomic.md) (回路図シリーズ3)
 - [2015/07/12 絵文字シリーズ](./emoji.md) (絵文字のUnicodeコードポイント)
-- [2015/07/13 JavaScriptシリーズ](./javascript.md) (チャーチ数、LISP)
+- [2015/07/13 JavaScriptシリーズ](./javascript.md) (チャーチ数、チャーチペア)
 - [2015/09/17 DORYPHORE](./doryphore.md) (ギリシア文字)
 - [2016/02/20 ADROIT](./adroit.md) (ANSIエスケープシーケンス)

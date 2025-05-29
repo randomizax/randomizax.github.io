@@ -9,7 +9,7 @@
 
 ★Part 3: 2014/11/22 GNOMIC
 
-https://jojoingresswotd.github.io/2014/44/GNOMIC.html
+[https://jojoingresswotd.github.io/2014/44/GNOMIC.html](https://jojoingresswotd.github.io/2014/44/GNOMIC.html)
 
 今回の回路図(図1)は、4入力で8出力のIC1を使っています。CLKはclockという意味で、時間で変化する状態を持つ回路だとわかります。 `S_IN` のSは多分serialでしょう。IC1は、 `S_IN` からデータを1ビットずつ入力すると、それを記憶して8ビット分出力するという機能を持ち、shift registerと呼ばれる種類のものです。 `S_CLK` で、 `S_IN` のデータを読むタイミングを指示し、 `R_CLK` で指示したタイミングで8ビットを記憶して出力します。7400シリーズでは74LS594があります [ [^1] ] 。私は自分で使ったことはなかったので検索しました(最初74LS164かと思いましたが、164には `R_CLK` がありません)。
 
@@ -63,9 +63,9 @@ S_IN →□→□→□→□→□→□→□→□  ←S_CLKが来るごと�
 
 [^1]: [74LS594データシート](https://www.ti.com/lit/ds/symlink/sn74ls594.pdf)
 
-<a href="/kaidoku/images/1ageowzapmq0i.png"><img width="200px" src="/kaidoku/images/1ageowzapmq0i.png"/><br/>図1: 回路図部分</a>
-<a href="/kaidoku/images/1ageoxclzmedu.png"><img width="200px" src="/kaidoku/images/1ageoxclzmedu.png"/><br/>図2: 信号部分</a>
-<a href="/kaidoku/images/1ageoxnxkwaz6.png"><img width="200px" src="/kaidoku/images/1ageoxnxkwaz6.png"/><br/>図3:7セグメント表示</a>
+<a href="/kaidoku/images/1ageowzapmq0i.png"><img width="200px" src="/kaidoku/images/1ageowzapmq0i.png"/><br/>図1: 回路図部分</a><br/>
+<a href="/kaidoku/images/1ageoxclzmedu.png"><img width="200px" src="/kaidoku/images/1ageoxclzmedu.png"/><br/>図2: 信号部分</a><br/>
+<a href="/kaidoku/images/1ageoxnxkwaz6.png"><img width="200px" src="/kaidoku/images/1ageoxnxkwaz6.png"/><br/>図3:7セグメント表示</a><br/>
 
 ----
 
