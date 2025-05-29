@@ -220,8 +220,8 @@ Base64エンコードするとこうなりました。
 
 ユニコードに絵文字が入ったおかげで、世界が広がりましたね。このあたりの歴史は小形克宏さんのすばらしい記事がいくつかあるので、興味のある方はぜひ読んでみてください。
 
-- https://japan.cnet.com/sp/column_emojipandora/20389042/
-- https://internet.watch.impress.co.jp/docs/special/20150530_704559.html
+- [https://japan.cnet.com/sp/column_emojipandora/20389042/](https://japan.cnet.com/sp/column_emojipandora/20389042/)
+- [https://internet.watch.impress.co.jp/docs/special/20150530_704559.html](https://internet.watch.impress.co.jp/docs/special/20150530_704559.html)
 
 ちなみに小形さんは、まんが家の青木光恵さんの旦那さんだそうですね。
 
